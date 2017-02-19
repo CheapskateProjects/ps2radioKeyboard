@@ -55,7 +55,7 @@ void loop(void)
 
       // Output what we got
       Keyboard.begin();
-      Keyboard.write(character);asd
+      Keyboard.write(character);
     }
 }
 
